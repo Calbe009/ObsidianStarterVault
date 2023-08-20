@@ -1,7 +1,7 @@
 ---
 banner: "![[banner-spaces.jpg]]"
 date_created: 2023-07-06
-date_modified: 2023-07-18
+date_modified: 2023-08-08
 description: Collection of other spaces
 document_type: dashboard
 include_in_navbar: true

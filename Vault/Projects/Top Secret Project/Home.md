@@ -1,4 +1,7 @@
 ---
+banner: "![[cosmic-dawn-initiative.png]]"
+---
+---
 date_created: 2023-07-23
 date_modified: 2023-07-23
 document_type: project-dashboard

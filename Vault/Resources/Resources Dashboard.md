@@ -2,7 +2,7 @@
 banner: "![[banner-resources.jpg]]"
 banner_y: 0.4
 date_created: 2023-07-06
-date_modified: 2023-07-18
+date_modified: 2023-08-08
 description: Collection of Resources.
 document_type: dashboard
 include_in_navbar: true
